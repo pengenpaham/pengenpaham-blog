@@ -1,8 +1,8 @@
 {
-  "name": "pp-docs",
+  "name": "p9m-docs",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:plangi-io/pp-docs.git",
+  "repository": "git@github.com:plangi-io/p9m-docs.git",
   "author": "ervinismu <social.ervin@gmail.com>",
   "license": "MIT",
   "scripts": {
