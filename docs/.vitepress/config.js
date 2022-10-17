@@ -4,17 +4,18 @@ export default {
     lastUpdated: true,
     themeConfig: {
         logo: 'logo.png',
-        nav: [
-            { text: 'Contribution Guide', link: '/contribution-guide' },
-            { text: 'Learning Path', link: '/learning-path' },
-            { text: 'Roadmap', link: '/roadmap' },
-        ],
+        // nav: [
+        //     { text: 'Contribution Guide', link: '/contribution-guide' },
+        //     { text: 'Learning Path', link: '/learning-path' },
+        //     { text: 'Roadmap', link: '/roadmap' },
+        // ],
         socialLinks: [
             { icon: 'instagram', link: 'https://instagram.com/pengenpaham' },
+            { icon: 'github', link: 'https://github.com/p9m-org' },
         ],
         sidebar: [
             {
-              text: 'Guide',
+              text: 'Introduction',
               items: [
                 { text: 'Contribution Guide', link: '/contribution-guide' },
                 { text: 'Learning Path', link: '/learning-path' },
