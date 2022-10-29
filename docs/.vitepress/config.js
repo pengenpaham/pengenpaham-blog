@@ -17,9 +17,9 @@ export default {
             {
               text: 'Introduction',
               items: [
-                { text: 'Contribution Guide', link: '/contribution-guide' },
+                { text: 'Contribution Guide ✨', link: '/contribution-guide' },
                 { text: 'Learning Path', link: '/learning-path' },
-                { text: 'Roadmap', link: '/roadmap' },
+                { text: 'Roadmap 🗺', link: '/roadmap' },
                 { text: 'References', link: '/references' },
               ]
             }
