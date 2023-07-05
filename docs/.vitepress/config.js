@@ -8,7 +8,7 @@ export default {
         lineNumbers: true,
     },
     themeConfig: {
-        logo: 'pengenpaham-logo.png',
+        logo: './pengenpaham-logo.png',
         search: {
             provider: 'local'
         },

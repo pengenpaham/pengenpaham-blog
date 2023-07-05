@@ -5,7 +5,7 @@ hero:
   name: PengenPaham
   text: Let's learn & grow together 🌱🥚.
   image:
-    src: /pengenpaham-logo.png
+    src: ./pengenpaham-logo.png
     alt: pengenpaham
   actions:
     - theme: brand
