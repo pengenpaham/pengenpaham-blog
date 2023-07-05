@@ -1,26 +1,30 @@
 export default {
+    lang: 'en-US',
     title: "PengenPaham",
-    description: "Blog for learning",
+    description: "Infinite learning",
     lastUpdated: true,
+    cleanUrls: true,
+    markdown: {
+        lineNumbers: true,
+    },
     themeConfig: {
-        logo: 'logo.png',
-        // nav: [
-        //     { text: 'Contribution Guide', link: '/contribution-guide' },
-        //     { text: 'Learning Path', link: '/learning-path' },
-        //     { text: 'Roadmap', link: '/roadmap' },
-        // ],
+        logo: 'pengenpaham-logo.png',
+        search: {
+            provider: 'local'
+        },
+        nav: [
+            { text: 'Medium', link: 'https://medium.com/pengenpaham' },
+            { text: 'Mastodon', link: 'https://github.com/pengenpaham' },
+        ],
         socialLinks: [
-            { icon: 'instagram', link: 'https://instagram.com/pengenpaham' },
-            { icon: 'github', link: 'https://github.com/p9m-org' },
+            { icon: 'github', link: 'https://github.com/pengenpaham' }
         ],
         sidebar: [
             {
               text: 'Introduction',
               items: [
-                { text: 'Contribution Guide ✨', link: '/contribution-guide' },
-                { text: 'Learning Path', link: '/learning-path' },
-                { text: 'Roadmap 🗺', link: '/roadmap' },
-                { text: 'References', link: '/references' },
+                { text: 'Getting Started', link: '/getting-started' },
+                { text: 'Contibuting Guide', link: '/contributing-guide' },
               ]
             }
         ],

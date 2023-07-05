@@ -1,8 +1,8 @@
 {
-  "name": "p9m-docs",
+  "name": "pengenpaham-blog",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:plangi-io/p9m-docs.git",
+  "repository": "git@github.com:pengenpaham/pengenpaham-blog.git",
   "author": "ervinismu <social.ervin@gmail.com>",
   "license": "MIT",
   "scripts": {

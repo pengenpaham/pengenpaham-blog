@@ -1,12 +1,12 @@
-# p9m-docs
+# pengenpaham-blog
 Source code for [pengenpaham.com](https://pengenpaham.com).
 
-## Deps 
+## Deps
 This project is running using [vitepress](https://vitepress.vuejs.org/)
 
 ## Running Locally
 - Clone this repository
-- change directory `cd p9m-docs`
+- change directory `cd pengenpaham-blog`
 - Install deps `yarn install`
 - Run project `yarn docs:dev`
 - Open `localhost:5173` in your browser!
