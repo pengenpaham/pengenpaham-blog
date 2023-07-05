@@ -6,7 +6,7 @@
 ## Contributing Guide ✨
 
 If you find something else in current published material or want to suggest new material,
-please read our [Contribution Guide ✨](/contribution-guide) for detail guideline to contribute in this site.
+please read our [Contribution Guide ✨](/contributing-guide) for detail guideline to contribute in this site.
 
 
 ### Current Contributors

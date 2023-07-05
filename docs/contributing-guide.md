@@ -27,4 +27,4 @@ If any suggestion for new materials, please submit discussion here :
       }
     ]
    ```
-5. If you want to suggest new material, please read our [Timeline 🗺](timeline.md) first and make sure the material you are suggesting is not being worked by someone else.
+5. If you want to suggest new material, please read our Timeline 🗺 first and make sure the material you are suggesting is not being worked by someone else.
