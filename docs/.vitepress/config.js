@@ -14,10 +14,10 @@ export default {
         },
         nav: [
             { text: 'Medium', link: 'https://medium.com/pengenpaham' },
-            { text: 'Mastodon', link: 'https://github.com/pengenpaham' },
+            { text: 'Mastodon', link: 'https://mastodon.social/@pengenpaham' },
         ],
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/pengenpaham' }
+            { icon: 'github', link: 'https://github.com/pengenpaham' },
         ],
         sidebar: [
             {
