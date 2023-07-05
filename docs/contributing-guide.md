@@ -9,7 +9,14 @@ If any suggestion for new materials, please submit discussion here :
 
 ### Writing Tips :
 
-1. If you written material about technical, don't forget to use `Code Block` in your code examples for better readable code.
+1. If you written material about technical, don't forget to use `Code Block` in your code examples for better readable code. For example :
+   ```ruby
+     def say_hello
+       puts "hello from pengenpaham! :)"
+     end
+
+     say_hello
+   ```
 2. Don't forget to add `Author Name` on the top of material page you written.
 3. Put valid `References` in the bottom page for material references.
 4. For new contributor, don't forget to add new profile data in `docs/index.md` at the bottom.
